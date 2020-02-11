@@ -1,0 +1,123 @@
+﻿
+
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 30px;
+}
+
+
+h2 {
+    padding-top:50px;
+    text-transform: uppercase;  
+    padding-bottom:20px;  
+    color:#000;
+}
+h3 {
+     padding-bottom:30px;
+     text-align:center;
+     font-weight:900;
+     color:#000;
+}
+section {
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+/*=====================================
+  HEADERS STYLES 
+    ===================================*/
+
+
+.header-sec {
+  
+    padding-top: 10px;
+    padding-bottom: 60px;
+    background-color: #FF5454;
+color: #fff;
+}
+
+    .icon-round {
+font-size: 25px;
+height: 50px;
+width: 50px;
+line-height: 50px;
+color: #000;
+border: 2px solid #fff;
+text-align: center;
+border-radius: 50%;
+-webkit-transition: 400ms;
+-moz-transition: 400ms;
+-o-transition: 400ms;
+transition: 400ms;
+cursor: pointer;
+}
+        .icon-round:hover {
+            background-color:#000;
+            color:#fff;
+        }
+.header-sec .media-body p {
+    padding-left:20px;
+}
+.header-sec img {
+    padding:60px;
+}
+
+/*=====================================
+  TESTIMONIALS STYLES 
+    ===================================*/
+
+.name-cl {
+    display:block;
+    padding:5px;
+    font-weight:800;
+    text-align:right;
+
+}
+.copyrights{
+	text-indent:-9999px;
+	height:0;
+	line-height:0;
+	font-size:0;
+	overflow:hidden;
+}
+/*=====================================
+  PRICING STYLES 
+    ===================================*/
+
+.pricing {
+     background-color: #FF5454;
+color: #fff;
+}
+
+.pricing p {
+    padding:20px;
+}
+    .pricing span {
+        font-size:80px;
+        display:block;
+        padding:10px;
+    }
+  
+  /*=====================================
+  CONTACT STYLES 
+    ===================================*/
+
+.contact {
+     background-color: #FF5454;
+     color:#fff;
+}
+
+    .contact small {
+        font-size:15px;
+    }
+    .contact a,.contact a:hover {
+        color:#e82f2f;
+        text-decoration:none;
+
+        padding:5px;
+    }
+   
